@@ -1,7 +1,7 @@
 # ReactAppWeb
 
 <h1 align="center">
-     title="Proffy" 
+     "Proffy" 
 </h1>
 
 <p align="center">
