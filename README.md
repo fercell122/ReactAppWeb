@@ -1,7 +1,7 @@
 # ReactAppWeb
 
 <h1 align="center">
-     "Proffy" 
+    <img alt="Proffy" title="Proffy" src="./logo.svg" />
 </h1>
 
 <p align="center">
@@ -10,6 +10,9 @@
   
 </p>
 
+<p align="center">
+  <img alt="Proffy" src="./proffy.png" width="100%">
+</p>
 
 
 
